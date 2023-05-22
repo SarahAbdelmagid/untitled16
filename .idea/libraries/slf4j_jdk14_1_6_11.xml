@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="slf4j-jdk14-1.6.11">
+    <CLASSES>
+      <root url="jar://D:/slf4j-jdk14-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
